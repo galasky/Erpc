@@ -1,0 +1,3 @@
+port COM numero		=	7
+vitesse de transmission	=	9600
+frequence d'envoie (ms)	=	30
